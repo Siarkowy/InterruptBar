@@ -1,0 +1,9 @@
+## Interface: 20430
+## Title: Interrupt Bar
+## Notes: Tracks interrupts. Authored by Kollektiv, modified by Siarkowy.
+## Version: 1.15
+## Author: Kollektiv
+## DefaultState: Enabled
+## SavedVariables: InterruptBarDB
+
+InterruptBar.lua
